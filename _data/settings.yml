@@ -11,7 +11,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Dustin's Words',   url: 'proj-1'}
+- {name: 'Dustins Words',   url: 'proj-1'}
 - {name: 'Cineprint',   url: 'proj-2'}
 - {name: 'DAO Discord Research', url: 'proj-3'}
 - {name: 'Project Four',  url: 'proj-4'}
