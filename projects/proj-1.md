@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Dustin's Words'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+"Dustin's Words" is an assistive communication device designed to help non-verbal individuals, particularly those with on the spectrum, express their needs and thoughts. Developed initially for personal use in 2014 by our friend Matt Reamer for his brother, Dustin. It allows users to send simple text messages over Wi-Fi at the push of a button, aiding communication with caregivers. Originating as a prototype for one, the project now aims to evolve into a consumer-level product accessible to many. It includes a physical device and an easy-to-use web tool for customization by caregivers. The project highlights open-source code and shared 3D sketches, fostering community involvement and customization. It was crowdfunded on Indiegogo and an initial set was created and given to the community.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+For more detailed information, you can visit their website: Dustin's Words.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+{% include image.html url="[http://www.gratisography.com](https://dustins-words.github.io/Dustins-Words/index.html)" image="projects/proj-1/dustinswords.jpg" %}
+
