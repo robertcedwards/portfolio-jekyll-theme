@@ -11,10 +11,10 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Dustins Words',   url: 'proj-1'}
-- {name: 'Cineprint',   url: 'proj-2'}
-- {name: 'DAO Discord Research', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
+- {name: 'Web3 on Fire',   url: 'web3-on-fire'}
+- {name: 'Ambire Wallet',   url: 'ambire-wallet'}
+- {name: 'DAO & Tooling Research', url: 'DAO-tools'}
+- {name: 'Web3 Authors',  url: 'web3-authors'}
 - {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------

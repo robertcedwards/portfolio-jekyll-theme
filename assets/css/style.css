@@ -1,0 +1,55 @@
+.dataRow .rowNumber {
+    display: none !important;
+}
+.dataRow .expandButtonLeft {
+    display: none !important;
+}
+.dataRow .staticCellContainer {
+    width: 0px !important;
+}
+.dataRow .cell.primary {
+    margin-left: 0px !important;
+    width: calc(100%) !important;
+}
+
+/* The below code fixes the column width in groups*/
+.gridViewGroup.groupLevel3 ~ .dataRow .cell.primary {
+    margin-left: 0px !important;
+    width: calc(100% - 47px) !important;
+}
+.gridViewGroup.groupLevel2 ~ .dataRow .cell.primary {
+    margin-left: 0px !important;
+    width: calc(100% - 31px) !important;
+}
+.gridViewGroup.groupLevel1 ~ .dataRow .cell.primary {
+    margin-left: 0px !important;
+    width: calc(100% - 15px) !important;
+}
+
+/*****
+* Column Label Icon Removal
+*  Removes the label icon and resizes the label to take up the full space
+*****/
+.nameAndDescription svg {
+    display: none !important;
+}
+.nameAndDescription .name {
+    left: 8px !important;
+    width: calc(100% - 19px) !important;
+}
+.button {
+    pointer-events: none;
+    background-color: #EFF4FF;
+    border: none;
+    color: #2557D6;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 13px;
+    margin-left: -1px;
+    margin-bottom: 10px;
+    border-radius: 100px;
+  }
+
+ 
